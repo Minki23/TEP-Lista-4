@@ -1,0 +1,18 @@
+﻿  Lista4.cpp
+C:\Users\minki\Desktop\l\Studia\Semestr III\Techniki Efektywnego Programowania\Lista4\Lista4\NodeTree.h(107,14): warning C4244: "return": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+C:\Users\minki\Desktop\l\Studia\Semestr III\Techniki Efektywnego Programowania\Lista4\Lista4\NodeTree.h(109,13): warning C4834: odrzucanie zwracanej wartości funkcji z atrybutem „nodiscard”
+C:\Users\minki\Desktop\l\Studia\Semestr III\Techniki Efektywnego Programowania\Lista4\Lista4\NodeTree.h(112,14): warning C4244: "return": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+C:\Users\minki\Desktop\l\Studia\Semestr III\Techniki Efektywnego Programowania\Lista4\Lista4\NodeTree.h(114,13): warning C4834: odrzucanie zwracanej wartości funkcji z atrybutem „nodiscard”
+C:\Users\minki\Desktop\l\Studia\Semestr III\Techniki Efektywnego Programowania\Lista4\Lista4\NodeTree.h(169,13): warning C4834: odrzucanie zwracanej wartości funkcji z atrybutem „nodiscard”
+C:\Users\minki\Desktop\l\Studia\Semestr III\Techniki Efektywnego Programowania\Lista4\Lista4\NodeTree.h(174,13): warning C4834: odrzucanie zwracanej wartości funkcji z atrybutem „nodiscard”
+C:\Users\minki\Desktop\l\Studia\Semestr III\Techniki Efektywnego Programowania\Lista4\Lista4\NodeTree.h(202,29): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\minki\Desktop\l\Studia\Semestr III\Techniki Efektywnego Programowania\Lista4\Lista4\NodeTree.h(208,28): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  Lista4.vcxproj -> C:\Users\minki\Desktop\l\Studia\Semestr III\Techniki Efektywnego Programowania\Lista4\x64\Debug\Lista4.exe
